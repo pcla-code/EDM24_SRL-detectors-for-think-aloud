@@ -34,6 +34,8 @@ Once you have created an account, navigate back to the dataset webpages and clic
 
 To get the final datasets, click the `Export` button. On the left hand side, make sure under `Shared Samples` that there is a checkbox next to `All Data` by clicking it. Then, click the `Export Transactions` button when it appears. Wait for the server to process your request, and then you should have three files `ds*_tx_All_Data_*_<timestamp>.txt`.
 
-You may need to download additional data files under "Files" in the dataset tab menu to reproduce all analyses.
+You may need to download additional data files under "Files" in the dataset tab menu to reproduce all analyses. Most importantly, the ground-truth data set used for predictive modeling can be found here:
+
+https://pslcdatashop.web.cmu.edu/Files?datasetId=5820
 
 Please feel free to reach out for help accessing the data, reproducing the analyses, or with any other questions you may have.
